@@ -1,6 +1,0 @@
--Wno-deprecated-enum-enum-conversion
--mabi=ilp32f
--march=rv32imafc_zicsr_zifencei_zaamo_zalrsc_xesploop_xespv2p1
--mtune=esp-base
-"-specs=D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/specs/picolibc.specs"
--fno-rtti
