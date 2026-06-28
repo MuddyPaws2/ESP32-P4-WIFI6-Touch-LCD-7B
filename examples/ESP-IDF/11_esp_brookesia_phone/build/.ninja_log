@@ -3,10 +3,10 @@
 134	339	8043522871357755	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/project_elf_src_esp32p4.c	16575367743ad5f3
 111	354	8043522872605077	esp-idf/esp_system/ld/memory.ld	da1a4a61b5974d7
 111	354	8043522872605077	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_system/ld/memory.ld	da1a4a61b5974d7
-118	360	8043522872646181	esp-idf/esp_system/ld/sections.ld.in	8f7f34857583616f
-118	360	8043522872646181	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_system/ld/sections.ld.in	8f7f34857583616f
-143	639	8043522870606741	esp-idf/main/CMakeFiles/spiffs_storage_bin	1961b12058aef6e0
 143	639	8043522870606741	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/main/CMakeFiles/spiffs_storage_bin	1961b12058aef6e0
+118	360	8043522872646181	esp-idf/esp_system/ld/sections.ld.in	8f7f34857583616f
+143	639	8043522870606741	esp-idf/main/CMakeFiles/spiffs_storage_bin	1961b12058aef6e0
+118	360	8043522872646181	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_system/ld/sections.ld.in	8f7f34857583616f
 125	780	8043522871828598	partition_table/partition-table.bin	326726f8666c738a
 125	780	8043522871828598	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/partition_table/partition-table.bin	326726f8666c738a
 393	798	8043522873102464	esp-idf/espressif__esp_wifi_remote/CMakeFiles/__idf_espressif__esp_wifi_remote.dir/dummy_src.c.obj	248c6cfcec7eea53
@@ -17,3 +17,6 @@
 530	2023	8043522874457579	esp-idf/espressif__eppp_link/CMakeFiles/__idf_espressif__eppp_link.dir/eppp_link.c.obj	60b3b725b4f3062e
 639	2032	8043522875558407	esp-idf/espressif__eppp_link/CMakeFiles/__idf_espressif__eppp_link.dir/eppp_uart.c.obj	1fa78a974ce3f2d7
 780	2181	8043522876962505	esp-idf/espressif__eppp_link/CMakeFiles/__idf_espressif__eppp_link.dir/eppp_netif_tun.c.obj	544ea0b9be1f8c89
+212	802	8043535720733125	esp-idf/espressif__esp_serial_slave_link/CMakeFiles/__idf_espressif__esp_serial_slave_link.dir/essl_sdio_defs.c.obj	83698f56a8b68d43
+196	908	8043535720578048	esp-idf/espressif__esp_serial_slave_link/CMakeFiles/__idf_espressif__esp_serial_slave_link.dir/essl_sdio.c.obj	77dfa48920a1d16e
+203	1941	8043535720650336	esp-idf/espressif__esp_serial_slave_link/CMakeFiles/__idf_espressif__esp_serial_slave_link.dir/essl_spi.c.obj	b14d1c78bee891d8
