@@ -424,8 +424,8 @@ esp_err_t resize_ppa(const img_t &src_img,
             return ESP_FAIL;
         }
         float scale_x_int, scale_y_int;
-        float scale_x_frac = modf(scale_x, &scale_x_int);
-        float scale_y_frac = modf(scale_y, &scale_y_int);
+        float scale_x_frac = modff(scale_x, &scale_x_int);
+        float scale_y_frac = modff(scale_y, &scale_y_int);
         scale_x_frac = floorf((scale_x_frac) / 0.0625) * 0.0625;
         scale_y_frac = floorf((scale_y_frac) / 0.0625) * 0.0625;
         ppa_scale_x = scale_x_int + scale_x_frac;
@@ -465,8 +465,8 @@ esp_err_t resize_ppa(const img_t &src_img,
             return ESP_FAIL;
         }
         float scale_x_int, scale_y_int;
-        float scale_x_frac = modf(scale_x, &scale_x_int);
-        float scale_y_frac = modf(scale_y, &scale_y_int);
+        float scale_x_frac = modff(scale_x, &scale_x_int);
+        float scale_y_frac = modff(scale_y, &scale_y_int);
         scale_x_frac = floorf((scale_x_frac) / 0.0625) * 0.0625;
         scale_y_frac = floorf((scale_y_frac) / 0.0625) * 0.0625;
         ppa_scale_x = scale_x_int + scale_x_frac;

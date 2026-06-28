@@ -113,6 +113,31 @@ esp_err_t esp_lcd_new_panel_ek79007(const esp_lcd_panel_io_handle_t io, const es
         .flags.use_dma2d = true,                                 \
     }
 
+/**
+ * @brief MIPI DPI configuration for ESP-IDF v6.0+ (uses lcd_color_format_t fields)
+ *
+ * @note Use with LCD_COLOR_FMT_RGB565 or LCD_COLOR_FMT_RGB888
+ */
+#define EK79007_1024_600_PANEL_60HZ_CONFIG_CF(color_fmt)         \
+    {                                                            \
+        .dpi_clk_src = MIPI_DSI_DPI_CLK_SRC_DEFAULT,             \
+        .dpi_clock_freq_mhz = 52,                                \
+        .virtual_channel = 0,                                    \
+        .in_color_format = color_fmt,                            \
+        .out_color_format = color_fmt,                           \
+        .num_fbs = 1,                                            \
+        .video_timing = {                                        \
+            .h_size = 1024,                                      \
+            .v_size = 600,                                       \
+            .hsync_back_porch = 160,                             \
+            .hsync_pulse_width = 10,                             \
+            .hsync_front_porch = 160,                            \
+            .vsync_back_porch = 23,                              \
+            .vsync_pulse_width = 1,                              \
+            .vsync_front_porch = 12,                             \
+        },                                                       \
+    }
+
 #ifdef __cplusplus
 }
 #endif
