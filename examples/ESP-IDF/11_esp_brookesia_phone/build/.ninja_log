@@ -1,3 +1,19 @@
 # ninja log v6
-69	827344	8043463787534517	CMakeFiles/confserver	ed43e8be396ded33
-69	827344	8043463787534517	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/CMakeFiles/confserver	ed43e8be396ded33
+134	339	8043522871357755	project_elf_src_esp32p4.c	16575367743ad5f3
+134	339	8043522871357755	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/project_elf_src_esp32p4.c	16575367743ad5f3
+111	354	8043522872605077	esp-idf/esp_system/ld/memory.ld	da1a4a61b5974d7
+111	354	8043522872605077	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_system/ld/memory.ld	da1a4a61b5974d7
+118	360	8043522872646181	esp-idf/esp_system/ld/sections.ld.in	8f7f34857583616f
+118	360	8043522872646181	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_system/ld/sections.ld.in	8f7f34857583616f
+143	639	8043522870606741	esp-idf/main/CMakeFiles/spiffs_storage_bin	1961b12058aef6e0
+143	639	8043522870606741	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/main/CMakeFiles/spiffs_storage_bin	1961b12058aef6e0
+125	780	8043522871828598	partition_table/partition-table.bin	326726f8666c738a
+125	780	8043522871828598	D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/partition_table/partition-table.bin	326726f8666c738a
+393	798	8043522873102464	esp-idf/espressif__esp_wifi_remote/CMakeFiles/__idf_espressif__esp_wifi_remote.dir/dummy_src.c.obj	248c6cfcec7eea53
+799	1536	8043522877159185	esp-idf/espressif__esp_serial_slave_link/CMakeFiles/__idf_espressif__esp_serial_slave_link.dir/essl.c.obj	f1864cad3ae76e34
+461	1718	8043522873777870	esp-idf/espressif__esp_wifi_remote/CMakeFiles/__idf_espressif__esp_wifi_remote.dir/idf_v6.0/esp_eap_client_with_remote.c.obj	5f3b9751149eabd
+427	1806	8043522873438812	esp-idf/espressif__esp_wifi_remote/CMakeFiles/__idf_espressif__esp_wifi_remote.dir/idf_v6.0/esp_eap_client_remote_weak.c.obj	d76603dd019a79e7
+536	1825	8043522874518042	esp-idf/espressif__eppp_link/CMakeFiles/__idf_espressif__eppp_link.dir/eppp_link_netif.cpp.obj	a0536ec6dec8120e
+530	2023	8043522874457579	esp-idf/espressif__eppp_link/CMakeFiles/__idf_espressif__eppp_link.dir/eppp_link.c.obj	60b3b725b4f3062e
+639	2032	8043522875558407	esp-idf/espressif__eppp_link/CMakeFiles/__idf_espressif__eppp_link.dir/eppp_uart.c.obj	1fa78a974ce3f2d7
+780	2181	8043522876962505	esp-idf/espressif__eppp_link/CMakeFiles/__idf_espressif__eppp_link.dir/eppp_netif_tun.c.obj	544ea0b9be1f8c89
