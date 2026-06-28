@@ -513,14 +513,14 @@
             "target": "___idf_esp_driver_i3c",
             "prefix": "idf",
             "dir": "C:/esp/v6.0.1/esp-idf/components/esp_driver_i3c",
-            "type": "LIBRARY",
+            "type": "CONFIG_ONLY",
             "lib": "__idf_esp_driver_i3c",
             "reqs": [],
             "priv_reqs": [ "esp_driver_gpio", "esp_pm", "esp_mm", "esp_driver_dma" ],
             "managed_reqs": [],
             "managed_priv_reqs": [],
-            "file": "D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_driver_i3c/libesp_driver_i3c.a",
-            "sources": [ "C:/esp/v6.0.1/esp-idf/components/esp_driver_i3c/i3c_master.c" ],
+            "file": "",
+            "sources": [],
             "include_dirs": [ "include" ]
         },
         "esp_driver_isp": {

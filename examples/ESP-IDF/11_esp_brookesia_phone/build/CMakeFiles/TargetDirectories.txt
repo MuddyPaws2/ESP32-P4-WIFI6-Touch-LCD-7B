@@ -786,7 +786,6 @@ D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp
 D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_driver_i2s/CMakeFiles/install.dir
 D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_driver_i2s/CMakeFiles/install/local.dir
 D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_driver_i2s/CMakeFiles/install/strip.dir
-D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_driver_i3c/CMakeFiles/__idf_esp_driver_i3c.dir
 D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_driver_i3c/CMakeFiles/edit_cache.dir
 D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_driver_i3c/CMakeFiles/rebuild_cache.dir
 D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/build/esp-idf/esp_driver_i3c/CMakeFiles/list_install_components.dir

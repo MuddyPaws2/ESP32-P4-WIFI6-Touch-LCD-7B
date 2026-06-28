@@ -158,7 +158,6 @@ $<TARGET_FILE:idf::esp_driver_cam>
 $<TARGET_FILE:__idf_esp_driver_isp>
 $<TARGET_FILE:idf::esp_driver_i2c>
 $<TARGET_FILE:idf::esp_driver_i2s>
-$<TARGET_FILE:idf::esp_driver_i3c>
 $<TARGET_FILE:idf::esp_hal_jpeg>
 $<TARGET_FILE:idf::esp_driver_jpeg>
 $<TARGET_FILE:__idf_esp_hal_jpeg>
