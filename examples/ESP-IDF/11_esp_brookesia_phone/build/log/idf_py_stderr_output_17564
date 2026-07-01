@@ -1,0 +1,29 @@
+Command: ninja all
+CMake Deprecation Warning at CMakeLists.txt:3 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+Loading defaults file D:/OneDrive/Documents/GitHub/ESP32-P4-WIFI6-Touch-LCD-7B/examples/ESP-IDF/11_esp_brookesia_phone/sdkconfig.defaults...
+Configuration Report                                                           
++-----------------------------------------------------------------------------+
+|  Parser Version: 1                                                          |
+|  Verbosity: default                                                         |
+|  Defaults policy: sdkconfig                                                 |
+|  Status: Finished with notifications                                        |
+|                                                                             |
+| Multiple Symbol/Choice Definitions                                          |
+| +-------------------------------------------------------------------------+ |
+| | Multiple definitions will have higher severity in the future. Please,   | |
+| | visit                                                                   | |
+| | https://docs.espressif.com/projects/esp-idf-kconfig/en/latest/kconfiglà | |
+| | for more information.                                                   | |
+| | BSP_I2S_NUM                                                             | |
+| |         D:\OneDrive\Documents\GitHub\ESP32-P4-WIFI6-Touch-LCD-7B\exampà | |
+| |         D:\OneDrive\Documents\GitHub\ESP32-P4-WIFI6-Touch-LCD-7B\exampà | |
+| +-------------------------------------------------------------------------+ |
++-----------------------------------------------------------------------------+
